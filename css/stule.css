@@ -1,0 +1,171 @@
+:root {
+  --accent-colour: #ff993a;
+  --text-colour: #000;
+}
+
+body {
+  font-family: Raleway;
+}
+
+.header-logo {
+  color: var(--accent-colour);
+
+  font-family: Oswald;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.41;
+}
+
+.header-link {
+  color: var(--text-colour);
+
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+.header-link:hover {
+  color: var(--accent-colour);
+}
+
+.hero {
+  background-color: #ffe4cc;
+}
+
+.hero-text {
+  color: var(--accent-colour);
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.18;
+}
+
+.hero-title {
+  color: #ff463a;
+
+  font-family: Nunito;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.hero-desk {
+  color: var(--text-colour);
+
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.35;
+}
+
+.hero-button {
+  color: #fff;
+
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.35;
+  border-radius: 5px;
+  background: #ff463a;
+}
+
+.ice-title {
+  color: #ff463a;
+
+  font-family: Nunito;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.36;
+}
+
+.ice-price {
+  color: var(--text-colour);
+
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.ice-button {
+  color: var(--text-colour);
+
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.15;
+
+  border-radius: 5px;
+  border: 1px solid var(--text-colour);
+}
+
+.flawer-title {
+  color: #ff463a;
+
+  text-align: center;
+  font-family: Nunito;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.flawer-text {
+  color: var(--text-colour);
+
+  text-align: center;
+
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+.contakt-title {
+  color: #ff463a;
+
+  text-align: center;
+  font-family: Nunito;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.37;
+}
+
+.contakt-link {
+  color: var(--text-colour);
+
+  text-align: center;
+
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.16;
+}
+
+.footer-link {
+  color: var(--accent-colour);
+
+  font-family: Oswald;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.footer-text {
+  color: #fff;
+
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.2;
+}
